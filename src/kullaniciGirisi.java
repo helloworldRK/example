@@ -34,7 +34,7 @@ public class kullaniciGirisi {
                 if (pass.equals("345") == true) {
                     System.out.println("Şifre oluşturulamadı, lütfen başka şifre giriniz");
                 } else if (pass != "345"){
-                    pass = input.nextLine();
+                    pass = input.next();
                 System.out.println("Yeni sifreniz olusturulmustur.");
 
             }
