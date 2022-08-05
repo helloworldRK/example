@@ -1,5 +1,9 @@
 import java.util.Scanner;
+<<<<<<< HEAD
 public class ciftHane {
+=======
+public class tekHane {
+>>>>>>> 2458a1e8b85355c679ec508c5ee004175ebab438
     public static void main(String[] args) {
         int top=0 , binler=0, yuzler=0, birler=0, onlar=0,sayi;
         Scanner input=new Scanner(System.in);
